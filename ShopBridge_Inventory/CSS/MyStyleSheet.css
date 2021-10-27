@@ -1,0 +1,11 @@
+﻿body {
+
+}
+
+h1 {
+    color: brown;
+    text-align: center;
+    padding: 2px;
+    margin: auto;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
