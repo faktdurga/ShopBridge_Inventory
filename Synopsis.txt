@@ -1,0 +1,43 @@
+Shop Bridge asp.net project
+
+This is web based application where admin can log in and once Admin logs in successfully he
+will be able to access product inventory where he can add item, update existing item and delete
+item from inventory.
+• Asp.Net 4.5
+• C# Language
+• SQL Server 2012
+• Visual Studio.NET 2019
+• All database manipulations are done with stored procedures.
+• GridView controls are used for interface.
+• Master page and themes are used
+• Site navigation is done using Site Map.
+• ADO.NET is used to access database
+
+The following are the major operations in this application.
+• Add Product into inventory
+• Update existing product from inventory
+• Update delete product from inventory
+• Searching for product.
+• List of all products
+
+
+Applications
+• Visual Studio 2019
+• MS SQL Server 2012
+
+Steps to run this project
+The following are the steps to be taken to run the existing part of the application. This project
+makes use of membership feature of ASP.NET. The download contains all tables and stored
+procedures created by us as well as Asp.net.
+So all that you have to do is download, unzip, open project in Visual Studio.Net and run
+login.aspx file. Here are the steps given below:
+1. Download ShopBridge and unzip it into any directory in your system.
+2. Open SQL Server 2008 or higher version run Sql Script to create database and required
+table.
+3. Open Visual Studio.NET 2017
+4. Open the project from the directory into which you extracted project.
+5. Go to Solution Explorer and make ShopBridge_Inventory.aspx the startup page.
+6. Run project from Visual Studio.NET 2010 or higher
+7. You will see ShopBridge_Inventory.aspx page.
+9. Here you can perform crudeoperations Insert, Update and Delete.
+
